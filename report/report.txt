@@ -1,0 +1,52 @@
+Measurement criteria : Manhattan
+number of N : 5
+optimal average : 
+x1: 0  x2: 16
+y1: 0  y2: 18
+5 optimal points : 
+6 8
+5 8
+6 7
+6 9
+7 8
+The best place to build a Starbucks : 6 9
+-----------------------------------------------------
+Measurement criteria : Euclidean
+number of N : 5
+optimal average : 
+x1: 0  x2: 14
+y1: 0  y2: 16
+5 optimal points : 
+5 8
+6 8
+5 7
+6 7
+6 9
+The best place to build a Starbucks : 6 7
+-----------------------------------------------------
+Measurement criteria : Manhattan
+number of N : 6
+optimal average : 
+x1: 0  x2: 17
+y1: 0  y2: 19
+5 optimal points : 
+6 8
+6 9
+7 8
+7 9
+5 9
+The best place to build a Starbucks : 7 9
+-----------------------------------------------------
+Measurement criteria : Euclidean
+number of N : 6
+optimal average : 
+x1: 0  x2: 15
+y1: 0  y2: 17
+5 optimal points : 
+7 9
+6 8
+7 8
+6 9
+6 7
+The best place to build a Starbucks : 6 9
+-----------------------------------------------------
